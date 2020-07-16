@@ -21,7 +21,7 @@ Let us now import the dataset that we will be using for this project:
 ```
 df=pd.read_csv('winequality-red.csv',sep=';')
 ```
-Let us now see the contenets inside the dataset:
+Let us now see the contents inside the dataset:
 ```
 df.head()
 ```
