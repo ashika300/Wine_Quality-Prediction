@@ -90,3 +90,6 @@ Here,the predictor got it wrong only once for the first five examples.this provi
 With the increasing examples,the accuracy goes down,which was shown previously as 0.61
 
 This brings us to the end of the blog.
+
+Assignment during Online Internship with DLithe(www.dlithe.com)
+
