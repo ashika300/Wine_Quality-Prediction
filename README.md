@@ -93,5 +93,5 @@ This brings us to the end of the blog.
 
 Assignment during Online Internship with DLithe(www.dlithe.com)
 
-**# Thank You!**
+# Thank You!
 
